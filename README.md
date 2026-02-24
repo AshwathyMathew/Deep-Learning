@@ -15,3 +15,12 @@ Steps
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3a54e03a-f6a9-49aa-ad6b-746c27eb640f" />
 
 
+Epoch	Accuracy
+100	81.96
+200	75.4
+300	73.77
+400	85.24
+500	83.6
+
+
+<img width="676" height="340" alt="image" src="https://github.com/user-attachments/assets/ea333a56-5b02-4a7c-90a9-6f729c13e22b" />
